@@ -1,8 +1,7 @@
 ---
 title: "myrepo"
 output: 
-  html_document:
-    keep_md: true
+  github_document:
 date: "2024-11-20"
 ---
 
